@@ -1,5 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "PropScrRand"]
+	path = PropScrRand
+	url = https://github.com/tloux/propscrrand
+[submodule "paramhetero"]
+	path = paramhetero
+	url = https://github.com/tloux/paramhetero
+[submodule "tldr"]
+	path = tldr
+	url = https://github.com/tloux/tldr
